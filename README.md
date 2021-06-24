@@ -1,0 +1,2 @@
+# tonadiestech
+Cloudmining
